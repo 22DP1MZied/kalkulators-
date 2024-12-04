@@ -33,6 +33,8 @@ body {
     font-size: 3.5rem;
     text-align: end;
     background: transparent;
+    background: #555555;
+    border-radius: 5px;
     color: #fff;
     border: none;
     outline: none;
@@ -92,6 +94,7 @@ button:active, button:focus {
     color: white;
     border: none;
     border-radius: 5px;
+    width: 100px;
     cursor: pointer;
 }
 
