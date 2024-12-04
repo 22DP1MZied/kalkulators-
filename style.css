@@ -6,6 +6,9 @@
 }
 
 body {
+    background-image: url("https://wallpapers-clan.com/wp-content/uploads/2024/04/bmw-on-street-in-rain-gif-desktop-wallpaper-preview.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
     background-color: #47474728;
     min-height: 100vh;
     display: flex;
